@@ -7,7 +7,7 @@ function Portfolio () {
     return (
         <>
         <div className="jumbotron3">
-        <h1 className="display-4">Portolio!</h1>
+        <h1 className="display-4">Portfolio!</h1>
         <hr className="my-4" />
       <section className="container">
         <p>Welcome to my portfolio page.</p>
